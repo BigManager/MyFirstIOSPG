@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8C876332-7B2D-4D18-A2A6-7DD60964DE9B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HelloWorld</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6813DE9C6DB6761727C4CB289C1CD51C1703F6A4</key>
+		<string>https://github.com/BigManager/MyFirstIOSPG.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HelloWorld.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6813DE9C6DB6761727C4CB289C1CD51C1703F6A4</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/BigManager/MyFirstIOSPG.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6813DE9C6DB6761727C4CB289C1CD51C1703F6A4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6813DE9C6DB6761727C4CB289C1CD51C1703F6A4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MyFirstIOSPG</string>
+		</dict>
+	</array>
+</dict>
+</plist>

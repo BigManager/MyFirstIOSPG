@@ -106,12 +106,15 @@ class ViewController: UIViewController {
     
     func calculateTwoDigitFormul() -> Double {
         // get the result of formul between tow digit
+        if lastOperationStack.count <= 0 {
+            return 0
+        }
+        
         switch lastOperationStack.removeLast() {
-        case "+": performOperation({ (opt1: Double, opt2: Double) -> Double in
-            return opt1 + opt2 })
-//            case "-":
-//            case "×":
-//            case "÷":
+        case "+": performOperation() {return $0 + $1}
+        case "−": performOperation() {return $0 - $1}
+        case "×": performOperation() {return $0 * $1}
+        case "÷": performOperation() {return $0 / $1}
         default:
             break
         }
